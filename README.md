@@ -36,7 +36,13 @@ Start a conversation and say something like:
 - "Create a world inspired by Wuxia cultivation novels"
 - "I want a single city-state, political intrigue focused"
 
-The world-builder guides you through each layer, asking for your input and validation at every step. Generation adapts to scope (continent-scale down to single-city sandboxes).
+Three generation speeds:
+
+Collaborative (default): full control, validate each layer individually
+Fast: layers batched into 4-5 passes, world ready in 5-7 exchanges
+Surprise: Claude generates everything autonomously, you discover it during roleplay
+
+Generation adapts to scope (continent-scale down to single-city sandboxes).
 
 ### Playing in your world
 
