@@ -21,7 +21,7 @@ Two Claude Skills (`.skill` files) that work together:
 ## Installation
 
 1. Download the `.skill` files from the [Releases](../../releases) page
-2. Open each file in Claude — they install automatically
+2. Open each file in Claude
 3. Both skills need to be installed for the full experience
 
 **Recommended:** Claude Max plan (the skills are large and benefit from extended context). Should work on Pro for smaller worlds.
